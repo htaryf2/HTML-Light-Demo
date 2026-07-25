@@ -52,7 +52,7 @@ export function MorsPageSurface({
 
       <div className="page-main">
         <section className="page-copy" aria-labelledby={titleId}>
-          <p className="page-kicker"></p>
+          <p className="page-kicker">01</p>
           <h1 id={titleId}>
             Automating Clinical Nutrition: <br />
             AI Agents, Web Apps, Predictive Nutrition and Future Technologies.</span>
