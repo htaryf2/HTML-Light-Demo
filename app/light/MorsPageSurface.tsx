@@ -44,7 +44,7 @@ export function MorsPageSurface({
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src={`${BASE_PATH}/mors-logo.svg`} alt="" />
           </span>
-          <span>MORS²</span>
+          <span>BENGKEL AI</span>
           <span className="page-brand-suffix">GAME ENGINE</span>
         </div>
         <div className="page-status"><span /> EARLY DEVELOPMENT</div>
@@ -52,10 +52,10 @@ export function MorsPageSurface({
 
       <div className="page-main">
         <section className="page-copy" aria-labelledby={titleId}>
-          <p className="page-kicker">01 / RUNTIME ARCHITECTURE</p>
+          <p className="page-kicker"></p>
           <h1 id={titleId}>
-            Meta is observed<br />
-            by Rule to <span>Step in Space.</span>
+            Automating Clinical Nutrition: <br />
+            AI Agents, Web Apps, Predictive Nutrition and Future Technologies.</span>
           </h1>
           <p className="page-subtitle">
             Disclaimer: These presentation slides were created with the assistance of Google Deep Research, Gemini Notebook, Gemini, and ChatGPT.
