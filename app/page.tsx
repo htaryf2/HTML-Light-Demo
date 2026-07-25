@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import { MorsLightExperience } from "./MorsLightExperience";
 
 export const metadata: Metadata = {
-  title: "MORS² — Meta is observed by Rule to Step in Space",
+  title: "Automating Clinical Nutrition: AI Agents, Web Apps, Predictive Nutrition and Future Technologies",
   description:
-    "A small, elegant, high-performance Rust game engine architecture built around Space, Meta, Field, Rule, and Latent.",
+    "Disclaimer: These presentation slides were created with the assistance of Google Deep Research, Gemini Notebook, Gemini, and ChatGPT.",
 };
 
 export default function Home() {
