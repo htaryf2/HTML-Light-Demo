@@ -55,7 +55,7 @@ export function MorsPageSurface({
           <p className="page-kicker">01</p>
           <h1 id={titleId}>
             Automating Clinical Nutrition: <br />
-            AI Agents, Web Apps, Predictive Nutrition and Future Technologies.</span>
+            AI Agents; Web Apps; Predictive Nutrition and Future Technologies.
           </h1>
           <p className="page-subtitle">
             Disclaimer: These presentation slides were created with the assistance of Google Deep Research, Gemini Notebook, Gemini, and ChatGPT.
