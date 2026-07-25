@@ -58,7 +58,7 @@ export function MorsPageSurface({
             by Rule to <span>Step in Space.</span>
           </h1>
           <p className="page-subtitle">
-            A Rust engine architecture where rules derive tightly packed data layout for elegant performance.
+            Disclaimer: These presentation slides were created with the assistance of Google Deep Research, Gemini Notebook, Gemini, and ChatGPT.
           </p>
 
           <div className="concepts" data-interactive>
